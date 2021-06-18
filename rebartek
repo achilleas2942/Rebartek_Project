@@ -1,0 +1,9 @@
+Rebartek
+
+PUMA 560 Achilleas Version
+
+Instructions:
+1. Open the python file: rebartek.py on visual studio (VS)
+2. Install all the imported libraries
+3. Run the script
+4. Follow the instructions of the program to get the forward or inverse kinematics, the Denavit-Hartenberg coordinate systems or the path planning algorith.
